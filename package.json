@@ -1,0 +1,10 @@
+{
+  "name": "plantbox",
+  "version": "0.0.1",
+  "description": "Glue module for decoupling webpages from the browser, using the concept of 'plants'.",
+  "author": "Liam Doherty",
+  "main": "main",
+  "dependencies": {
+  	"requiretree": ">=0.0.1"
+  }
+}
